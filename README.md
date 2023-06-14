@@ -2,4 +2,4 @@
 
 How I wired up my fan to my raspberry pi.
 
-![Alt text](circuit/circuit.png "a title")
+![Image of the circuit](circuit/circuit.png "circuit")
