@@ -20,7 +20,7 @@ The wire coloring matches the one on the circuit.
 
 1. Open a terminal on the pi
 2. Enter ```sudo raspi-config```
-3. Go to the fort option ```4 Performance Options```
+3. Go to the forth option ```4 Performance Options```
 4. Go the next forth option ```P4 Fan```
 5. Select ```<Yes>``` for the option ```Would you like to enable fan temperature control?```
 6. Enter your GPIO pin, in this case 2
@@ -29,4 +29,4 @@ The wire coloring matches the one on the circuit.
 9. Select ```<Ok>```
 10. Confirm the following ```The fan on GPIO <your pin> is enabled and will turn on at <your temperature> degrees Celsius``` with ```<Ok>```
 11. Select ```<Finish>``` to save
-12. select what you want when you see ```Would you like to reboot now?```
+12. Select what you want when you see ```Would you like to reboot now?```
