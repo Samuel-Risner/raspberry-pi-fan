@@ -30,3 +30,14 @@ The wire coloring matches that of the circuit.
 10. Confirm the following: ```The fan on GPIO <your pin> is enabled and will turn on at <your temperature> degrees Celsius``` with ```<Ok>```
 11. Select ```<Finish>``` to save
 12. Choose what you want when you see ```Would you like to reboot now?```
+
+# What you need to build your own
+
+- Raspberry Pi
+- 5-volt fan
+- Breadboard
+- Jumper cables:
+    - 1 male-male (breadboard-fan)
+    - 3 female-male (2 Pi-breadboard) (1 Pi-fan)
+- 1k resistor
+- 1 NPN transistor
