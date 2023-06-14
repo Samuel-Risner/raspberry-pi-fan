@@ -41,3 +41,34 @@ The wire coloring matches that of the circuit.
     - 3 female-male (2 Pi-breadboard) (1 Pi-fan)
 - 1k resistor
 - 1 NPN transistor
+
+# Testing
+
+To get the temperature up we will use a tool called ```stress```.
+
+Install it:
+
+```shell
+sudo apt-get install stress
+```
+
+Use it:
+
+```shell
+stress --cpu 4
+```
+
+Stop it: Hit CTRL+C
+
+Measure the temperature:
+
+```shell
+vcgencmd measure_temp
+```
+
+Watch the temperature (measure every second):
+```shell
+watch -n 1 -d vcgencmd measure_temp
+```
+
+Stop watching: Hit CTRL+C
