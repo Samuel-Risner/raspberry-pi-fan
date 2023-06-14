@@ -8,6 +8,7 @@
     ],
     "cSpell.words": [
         "GPIO",
-        "raspi"
+        "raspi",
+        "vcgencmd"
     ]
 }
