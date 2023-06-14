@@ -4,7 +4,7 @@ How I wired up my fan to my raspberry pi.
 
 # Circuit
 
-The fan was replaced with a buzzer.
+In the circuit the fan was replaced with a buzzer.
 
 ![Image of the circuit](circuit/circuit.png "circuit")
 
@@ -14,7 +14,7 @@ How my finished build looks:
 
 ![Image of finished build](build/build.jpeg "finished build")
 
-The wire coloring matches the one og the circuit.
+The wire coloring matches the one on the circuit.
 
 # How to configure the fan
 
