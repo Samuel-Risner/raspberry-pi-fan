@@ -1,0 +1,6 @@
+* Netlist created with www.circuit-diagram.org
+* 
+'buzzer a:0 b:1
+R1 3 2 1000
+'transnpn col:0 base:4 t=NPN
+'Raspberry Pi A+ / B+, 2 and Zero GPIO #20:1 #1:2 #19:4
