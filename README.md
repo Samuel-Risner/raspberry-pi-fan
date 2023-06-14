@@ -36,7 +36,7 @@ The wire coloring matches that of the circuit.
 # What you need to build your own
 
 - Raspberry Pi
-- 5-volt fan
+- 5-volt fan (in this example with female connectors)
 - Breadboard
 - Jumper cables:
     - 1 male-male (breadboard-fan)
