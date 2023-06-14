@@ -4,6 +4,8 @@ How I wired up my fan to my raspberry pi.
 
 # Circuit
 
+The circuit was created using [Circuit Diagram](https://www.circuit-diagram.org).
+
 In the circuit, the fan was replaced with a buzzer.
 
 ![Image of the circuit](circuit/circuit.png "circuit")
