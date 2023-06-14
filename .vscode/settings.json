@@ -5,5 +5,9 @@
     "spellright.documentTypes": [
         "latex",
         "plaintext"
+    ],
+    "cSpell.words": [
+        "GPIO",
+        "raspi"
     ]
 }
