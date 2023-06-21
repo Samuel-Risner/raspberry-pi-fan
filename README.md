@@ -14,7 +14,7 @@ In the circuit, the fan was replaced with a buzzer.
 
 Here's how my finished build looks:
 
-![Image of finished build](build/build.jpeg "finished build")
+![Image of the finished build](build/build.jpeg "finished build")
 
 The wire coloring matches that of the circuit.
 
@@ -22,8 +22,8 @@ The wire coloring matches that of the circuit.
 
 1. Open a terminal on the Pi
 2. Enter ```sudo raspi-config```
-3. Go to the forth option ```4 Performance Options```
-4. Go the next forth option ```P4 Fan```
+3. Go to the fourth option ```4 Performance Options```
+4. Go to the next fourth option ```P4 Fan```
 5. Select ```<Yes>``` for the option ```Would you like to enable fan temperature control?```
 6. Enter your GPIO pin, in this case, 2
 7. Select ```<Ok>```
